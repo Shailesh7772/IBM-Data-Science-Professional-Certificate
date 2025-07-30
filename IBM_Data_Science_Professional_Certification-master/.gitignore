@@ -1,0 +1,52 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# User directory files
+.anaconda/
+.bash_history
+.cache/
+.conda/
+.condarc
+.continuum/
+.cursor/
+.eclipse/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.matplotlib/
+.nbi/
+.ollama/
+.p2/
+.python_history
+.spyder-py3/
+.streamlit/
+.trae-aicc/
+.trae/
+
+# Windows specific
+Saved Games/
+Searches/
+Videos/
+WPS Cloud Files/
+ai_completion/
+anaconda3/
+eclipse-workspace/
+eclipse/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Temporary files
+Untitled.ipynb
+import numpy as np.py
+index.html
+
+# Exclude files with very long paths
+**/LAB -Types.ipynb
+**/LAB - Strings.ipynb
+**/LAB 1 - Tuples.ipynb
+**/LAB 2 - Lists.ipynb
+**/LAB 1 -Dictionaries.ipynb
+**/LAB 1 - Sets.ipynb 
